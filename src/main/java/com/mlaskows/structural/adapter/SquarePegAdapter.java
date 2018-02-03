@@ -1,6 +1,6 @@
 package com.mlaskows.structural.adapter;
 
-public class SquarePegAdapter extends RoundPeg{
+public class SquarePegAdapter extends RoundPeg {
 
     private final SquarePeg squarePeg;
 

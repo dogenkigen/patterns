@@ -2,7 +2,7 @@ package com.mlaskows.creational.prototype;
 
 import java.util.Objects;
 
-public class Circle extends Shape{
+public class Circle extends Shape {
 
     private final int radius;
 
